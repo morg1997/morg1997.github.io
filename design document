@@ -16,9 +16,10 @@
     <h1>Home</h1>
         <p>The content goes here.</p>
         <ul>
+            
             <li><a href="homework/visitor_analysis_persona%20copy.html"
-            title="View my site analysis document"></a></li>
-            <li><a href=title</li>
+            title="View my site analysis document">Mobile Analysis Document</a></li>
+            <li><a href="" title="Visit the Design Principles document">Design Principle Document</a></li>
         </ul>
     </main>
     <footer><p>Site related things here.</p></footer>
