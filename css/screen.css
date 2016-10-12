@@ -1,8 +1,12 @@
+p{
+    font-family: sans-serif;
+}
 ul{
     list-style-type: none; 
     padding: 0px;
     display: inline-flex;
     width: 100;
+    justify-content: center
     
     
 }
